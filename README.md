@@ -16,7 +16,7 @@ Steps to contribute to this project:
 
 Normalization File
 
-1- We run this code under Spyder IDE, beacuse Spyder is a powerful scientific environment written in Python.It designed by and for scientists, engineers and data analysts. It offers a unique combination of the advanced editing, analysis, debugging, and profiling functionality of a comprehensive development tool with the data exploration, interactive execution, deep inspection, and beautiful visualization capabilities of a scientific package.
+1- We run this code under Spyder IDE, beacuse Spyder is a powerful scientific environment written in Python.It designed by and for scientists, engineers and data analysts. It offers a unique combination of the advanced editing, analysis, debugging, and profiling functionality of a comprehensive development tool with the data exploration, interactive execution, deep inspection, and beautiful visualization capabilities of a scientific package. https://www.spyder-ide.org/
 
 2- Follow the github steps above and open the file "norm_Sean_v20181029" using Spyder IDE.
 
