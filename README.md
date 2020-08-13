@@ -20,7 +20,13 @@ Normalization File
 
 2- Follow the github steps above and open the file "norm_Sean_v20181029" using Spyder IDE.
 
-3- Do not forget the change the file directory to your own directory *variable: "specdirec"
+3- Do not forget the change the file directory to your own directory with correct format. FOr example for Desktop it should start as "C:/Users/UserName/Desktop/"
+The variables and locations you should format:
+
+    variable: "specdirec"
+    "np.savetext" the very end of the for loop
+    "file_name1", "file_name2", and "file_name3" at the very end of the file
+    
 
 4- There are 6760 spectrum. If you have onle 5 files, then check "starts_from, ends_at" comment/variable line (use ctrl+f)
 
